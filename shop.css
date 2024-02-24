@@ -1,0 +1,76 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.intro{
+    background-image: url(images/shop.jpg);
+    background-position: 100px;
+    opacity: 0.9;
+    font-size: 30px;
+    color: rgb(12, 12, 12);
+}
+.intro h2{
+    text-align: center;
+    color: yellowgreen;
+}
+#brand{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+header{
+    background-color: palevioletred;
+    text-align: center;
+    color: #7FFF4D;
+    border-radius: 5px;
+}
+nav{
+   float: left;
+   width: 40%;
+   height: 300px;
+   background-color: #ccc;
+   padding: 20px;
+}
+nav ul{
+    list-style-type: none;
+    font-size: 20px;
+}
+nav h3{
+    font-size: 20px;
+    color: #222;
+}
+nav form input, select{
+    width: 45%;
+    height: 30px;
+}
+nav form label{
+    margin-right: 20px;
+    font-size: 15px;
+}
+article{
+    float: left;
+    width: 60%;
+    height: 300px;
+    background-image: url(images/map.jpg);
+    opacity: 0.9;
+    background-position: 0px;
+    padding: 20px;
+}
+article h1{
+    font-size: 40px;
+    color: purple;
+    margin-left: 50px;
+}
+article a{
+    margin-left: 50px;
+    font-size: 25px;
+    color: #222;
+}
+footer{
+    background-color: #222;
+    color: aliceblue;
+    font-size: 25px;
+    text-align: center;
+    padding: 15px;
+}
