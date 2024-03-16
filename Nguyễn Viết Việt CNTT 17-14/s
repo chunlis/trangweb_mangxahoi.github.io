@@ -1,0 +1,31 @@
+<div class="post">
+            <section class="post-user">
+                <h4>Bài viết gợi ý</h4>
+                <div class="action">
+                    <div class="profiles">
+                    <img src="images/logo.png" alt="">
+                    </div>
+                    <div class="list-profiles">
+                        <ul>
+                            <li>
+                                <a href="#">
+                                <img src="images/logo.png" alt="">
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <span class="textss">Kurumi<br><span>My Wife</span></span>
+                                </a>
+                            </li>
+                            <li>
+                                <nav class="imagess">
+                                    <img src="images/1.jpg" alt="">
+                                    <img src="images/2.webp" alt="">
+                                    <img src="images/3.png" alt="">
+                                </nav>
+                            </li>
+                        </ul>
+                        </div>
+                </div>
+                </section>
+            </div>
